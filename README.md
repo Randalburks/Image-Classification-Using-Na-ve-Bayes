@@ -1,4 +1,4 @@
-# Image-Classification-Using-Na-ve-Bayes
+# Image Classification Using Naive-Bayes
 This project demonstrates how to build a simple **binary image classifier** using classical machine learning. A Naïve Bayes model is trained to distinguish between two categories of images using grayscale pixel features.  
 
 ## Project Structure
