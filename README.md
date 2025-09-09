@@ -3,6 +3,7 @@ This project demonstrates how to build a simple **binary image classifier** usin
 
 ## Project Structure
 Perry-Classifier/
+
 ├── data/
 
 │   ├── perrytheplatypus/   # Category 1 images
