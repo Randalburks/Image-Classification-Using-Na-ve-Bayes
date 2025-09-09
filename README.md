@@ -4,12 +4,19 @@ This project demonstrates how to build a simple **binary image classifier** usin
 ## Project Structure
 Perry-Classifier/
 ├── data/
+
 │   ├── perrytheplatypus/   # Category 1 images
+
 │   └── platypus/           # Category 0 images
+
 ├── outputs/                # Model predictions and thumbnails
+
 ├── src/
+
 │   └── train_naive_bayes.py
+
 ├── requirements.txt
+
 └── .gitignore
 
 ## Workflow
