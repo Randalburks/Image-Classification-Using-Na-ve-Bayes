@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Outputs
+outputs/
+
+# Large datasets (optional, if you don’t want to push images)
+# Uncomment these lines if you want to exclude raw data
+# data/perrytheplatypus/
+# data/platypus/
